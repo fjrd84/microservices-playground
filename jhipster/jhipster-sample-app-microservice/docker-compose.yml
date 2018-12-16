@@ -1,0 +1,6 @@
+version: '2'
+services:
+  microservice:
+    image: jhipster/jhipster-sample-app-microservice
+    ports: 
+    - 8081:8081
